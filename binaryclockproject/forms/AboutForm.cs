@@ -23,7 +23,7 @@ namespace binaryclockproject
             try
             {
                 browser.StartInfo.UseShellExecute = true;
-                browser.StartInfo.FileName = "https://github.com/HarailtDark-Cub/Binary-Clock-Project";
+                browser.StartInfo.FileName = "https://github.com/riemsdijk/binary-clock-project";
                 browser.Start();
             }
             catch(Exception ce)
