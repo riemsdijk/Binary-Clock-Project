@@ -70,10 +70,10 @@
             this.linkLabel.AutoSize = true;
             this.linkLabel.Location = new System.Drawing.Point(234, 108);
             this.linkLabel.Name = "linkLabel";
-            this.linkLabel.Size = new System.Drawing.Size(275, 13);
+            this.linkLabel.Size = new System.Drawing.Size(245, 13);
             this.linkLabel.TabIndex = 5;
             this.linkLabel.TabStop = true;
-            this.linkLabel.Text = "https://github.com/HarailtDark-Cub/Binary-Clock-Project";
+            this.linkLabel.Text = "https://github.com/riemsdijk/Binary-Clock-Project/";
             this.linkLabel.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel_LinkClicked);
             // 
             // AboutForm
